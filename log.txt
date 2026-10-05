@@ -1,0 +1,2 @@
+Hello my name is Sujal . 
+Skill seet = html css  javascript python react cpp c github 
